@@ -45,6 +45,6 @@ My background gives me something most entry-level candidates don't have — I un
 
 ## Contact
 
+💼 [linkedin.com/in/cameron-lowe-cyber](https://linkedin.com/in/cameron-lowe-cyber)
 📧 Available on request  
 🎓 B.S. Cybersecurity and Information Assurance – In Progress  
-📍 Pacific Northwest
