@@ -18,7 +18,8 @@ My background gives me something most entry-level candidates don't have — I un
 | ITIL 4 Foundation | PeopleCert | ✅ Earned |
 | CompTIA Project+ | CompTIA | ✅ Earned |
 | Linux Essentials | LPI | ✅ Earned |
-| CompTIA CySA+ | CompTIA | 🔄 In Progress |
+| CompTIA CySA+ | CompTIA | ✅ Earned |
+| CompTIA PenTest+ | CompTIA | 🔄 In Progress |
 
 ---
 
