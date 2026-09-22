@@ -139,4 +139,4 @@ Service management principles are integrated throughout the playbook via Service
 
 ## Full Lab Documentation
 
-📄 [IT_Playbook_Updated.docx](./IT_Playbook_Updated.docx) — Complete playbook with lab screenshots, findings, NIST alignment tables, ITIL artifacts, and risk register
+📄 [IT_Playbook.docx](./IT_Playbook_Updated.docx) — Complete playbook with lab screenshots, findings, NIST alignment tables, ITIL artifacts, and risk register
