@@ -72,7 +72,7 @@ aws ec2 create-security-group --group-name Lab-SG \
 --description "Lab security group - SSH restricted" --vpc-id vpc-06e1a3e8267ec9477
 
 aws ec2 authorize-security-group-ingress --group-id sg-0b5ddd68e9c3c1ff2 \
---protocol tcp --port 22 --cidr 203.0.113.10/32
+--protocol tcp --port 22 --cidr xxx.x.xxx.xx/32
 ```
 
 The /32 suffix scopes the rule to one host address instead of a range, which is what least-privilege network access actually looks like.
