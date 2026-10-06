@@ -27,10 +27,10 @@ My background gives me something most entry-level candidates don't have — I un
 
 | Project | Tools | Focus Area | Status |
 |---|---|---|---|
-| [SIEM Home Lab](./siem-home-lab/) | Splunk Enterprise, Windows Server 2022, Active Directory | Threat detection, alert engineering, SOC operations | ✅ Complete |
+| [SIEM Home Lab](./siem-home-lab/) | Splunk Enterprise, Windows Server 2022, Active Directory | Threat detection, alert engineering, SOC operations | 🔧 Rebuilding on AWS |
 | [AWS Cloud Security Lab](./aws-cloud-security/) | AWS VPC, EC2, IAM, CloudTrail, CloudWatch, SNS | Cloud security, monitoring, incident detection | ✅ Complete |
 | [IT & Security Operations Playbook](./it-security-playbook/) | Nmap, Wireshark, GPG, Active Directory, Windows Recovery | IT operations, IAM, network analysis, incident response | ✅ Complete |
-
+| [GRC Triage](https://github.com/clowe-security/grc-triage) | Python, Anthropic Claude API, NIST SP 800-53 | GRC, LLM-assisted compliance triage, code-enforced guardrails, audit logging | ✅ Complete |
 ---
 
 ## Technical Skills
