@@ -2,6 +2,8 @@
 
 ## Overview
 
+> **Status:** The original lab ran on local hardware and is documented below. I am currently rebuilding it on AWS (Windows Server on EC2). This page will be updated as the rebuild progresses.
+
 Built a home SIEM using Splunk Enterprise 10.2.1 on a Windows Server 2022 Active Directory domain controller. Ingested real Windows Security event logs and built three detection rules mapped to MITRE ATT&CK techniques, then validated the pipeline end to end through live triggered alerts.
 
 The goal was practical SOC analyst skill: log ingestion, SPL query writing, alert engineering, and detection validation, using the same tools and event sources found in real security operations.
